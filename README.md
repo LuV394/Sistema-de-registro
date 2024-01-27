@@ -4,3 +4,5 @@
 para ejecutar el sistema debe poner 
 
 '''NPC install''''
+
+Sistema de registro 2
